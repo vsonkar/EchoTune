@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EchoTune</string>
+    <string name="get_started">Get Started</string>
+    <string name="explore_artists">Explore Artists</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+</resources>
