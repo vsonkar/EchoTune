@@ -12,8 +12,6 @@ Song Model (Parcelable) – Represents each track with id, title, artist, data, 
 
 SongAdapter – Binds songs to the RecyclerView with album art and click handling.
 
-.
-
 🚀 Outcomes
 
 Successfully implemented a functional and visually appealing music player.
